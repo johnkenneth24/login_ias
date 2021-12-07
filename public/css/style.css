@@ -1,0 +1,12 @@
+body{
+    background-image: url('/image/bg.jpg');
+    background-size: cover;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+container-fluid{
+    height: 100vh !important;
+}

@@ -1,0 +1,57 @@
+
+h3{
+    text-transform: uppercase;
+    color: #ffff;
+}
+
+container-fluid{
+    height: 100vh !important;
+}
+
+.container{
+    margin: 0px;
+    padding: 0px;;
+}
+
+.navibar{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    font-size: 1.5rem;
+    color: #ffff;
+}
+
+a{
+    font-size: 1.5rem;
+    color: #ffff;
+}
+
+a:hover{
+    background-color: none !important;
+}
+
+.dashboard{
+    width: 100%;
+    height: 5vh;
+    padding: 0px;
+    margin: 0px;
+    background-color: #43aa8b;
+
+}
+
+.db-content{
+    width: 50vh;
+    height: 95vh;
+    background-image: url('/image/cs-bg.jpg');
+    background-size: cover;
+}
+
+.msg{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 2rem;
+}
+
+
